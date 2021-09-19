@@ -1,0 +1,44 @@
+  
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap");
+.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow: 5px 5px 5px grey;
+  font-family: "Kosugi Maru", sans-serif;
+}
+
+.note {
+  font-size: 15px;
+}
+
+.copyright_footer {
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+  margin-top: 50px;
+}
+.copyright_footer a {
+  color: #fdb813;
+}
+
+canvas {
+  border: 5px dashed black;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+sm {
+  font-family: "Space Mono", monospace;
+}
+.float-left{
+  float: left;
+}
+div {
+  margin: 10px;
+}
