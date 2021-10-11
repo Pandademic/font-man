@@ -1,4 +1,3 @@
-  
 @import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap");
 .heading {
@@ -21,7 +20,6 @@
   background-color: grey;
   line-height: 3;
   text-align: center;
-  margin-top: 50px;
 }
 .copyright_footer a {
   color: #fdb813;
@@ -35,14 +33,4 @@ canvas {
 
 sm {
   font-family: "Space Mono", monospace;
-}
-.float-left{
-  float: left;
-}
-div {
-  margin: 10px;
-}
-#fnt {
-  width:50px
-    
 }
