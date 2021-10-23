@@ -14,7 +14,7 @@ function setup(){
 function modelLoaded(){
     console.log("PosenNet has arrived!")
 }
-function gotPoses(){
+function gotPoses(results){
      if(results.length>0){
         console.log(results);
         noseX=results[0].pose.nose.x;
