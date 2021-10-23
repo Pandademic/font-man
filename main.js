@@ -11,7 +11,7 @@ function setup(){
     poseNet=ml5.poseNet(video,modelLoaded);
     poseNet.on('pose',gotPoses); 
  }
-function modelLoaded{
+function modelLoaded(){
     console.log("PosenNet has arrived!")
 }
 function gotPoses(){
