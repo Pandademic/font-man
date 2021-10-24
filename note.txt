@@ -1,0 +1,2 @@
+  Sorry for the bad clear - there's a weird thing that when the font size changes new text isadded and the old one exist's too.
+  You MUST clear every now and then (every 2 minutes) 
