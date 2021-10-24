@@ -12,8 +12,7 @@ function setup(){
     poseNet.on('pose',gotPoses); 
 }
 function draw(){
-    font=Text("Hullo!",noseX,noseY);
-    font.size(diff,diff)
+    Text("Hullo!",noseX,noseY);
 }
 function modelLoaded(){
     console.log("PosenNet has arrived!")
